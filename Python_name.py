@@ -2,7 +2,7 @@ print ("hello there hooman")
 repeat = True
 while repeat == True:
     name = input("What is your name?")
-    if name == 'Grace':
+    if name == 'November':
         print ("I like you")
     else: print ('I dislike you')
     lies = input ('Are you sure this is your name?')
